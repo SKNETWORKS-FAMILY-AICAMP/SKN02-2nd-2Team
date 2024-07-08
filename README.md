@@ -48,7 +48,7 @@
  - MLP
 
 # Results
-![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-2Team/assets/158265663/5464b7d5-ff62-4fcc-ab12-430e406acf97)  
+![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-2Team/assets/158265663/64279072-c677-480c-b603-adca777e926f)
 ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-2Team/assets/158265663/07a25555-cb60-4f56-815d-ff98c6e81793)  
 다양한 머신러닝 모델을 활용하여 고객 이탈 예측을 수행한 결과, 초기 테스트에서는 로지스틱 회귀 모델이 가장 높은 성능을 보였습니다. 그 후 Stratified K-Fold 교차 검증 및 Feature Importance 분석을 통해 추가적인 하이퍼파라미터 튜닝을 진행한 결과, 다른 모델에서도 성능 향상을 확인할 수 있었습니다. 
 특히, 20개의 컬럼 중 17개의 변수가 범주형 변수로 구성되어 있어, 범주형 변수 모델링에 유용한 CatBoost 알고리즘이 가장 적합한 모델임을 알 수 있었습니다.
