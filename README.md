@@ -1,7 +1,7 @@
 # SKN02-2nd-2Team
 김영현 서종호 장정원 황양오
 
-# 프로젝트 소개
+# About Project
 통신 3사의 기존 고객이 알뜰폰으로 갈아타는 ‘환승족’ 늘어나는 추세입니다. SKT 기준 41.3%(21년 11월) → 40.2%(22년 11월)으로 점유율 감소하였고, 알뜰폰 기준 14.1%(21년 11월) → 16.7%(22년 11월)로 급성장하였습니다.
 가입자 확보 중심의 성장 전략은 포화상태로 한계가 있어 통신사 고객의 이탈 관리 방안에 대한 분석 필요성을 느꼈습니다.
 이를 위해 Kaggle의 Telco Customer Churn Dataset을 분석하여 insight를 확보하고자 하였습니다.
@@ -36,3 +36,15 @@
   
 협업  
  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+ # Models
+ - LogisticRegression  
+ - DecisionTree  
+ - RandomForest  
+ - GradientBoosting
+ - XGBoost
+ - LightGBM
+ - CatBoost
+ - MLP
+
+# Results
