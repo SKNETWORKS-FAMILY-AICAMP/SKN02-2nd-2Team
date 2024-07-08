@@ -1,4 +1,4 @@
-![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-2Team/assets/158265663/486ee637-d75d-45b4-987d-7ad964e83b2d)# SKN02-2nd-2Team
+# SKN02-2nd-2Team
 김영현 서종호 장정원 황양오
 
 # 프로젝트 소개
