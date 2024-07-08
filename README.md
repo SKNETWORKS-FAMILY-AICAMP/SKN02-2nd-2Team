@@ -48,6 +48,6 @@
  - MLP
 
 # Results
-![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-2Team/assets/158265663/5464b7d5-ff62-4fcc-ab12-430e406acf97)
-![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-2Team/assets/158265663/07a25555-cb60-4f56-815d-ff98c6e81793)
+![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-2Team/assets/158265663/5464b7d5-ff62-4fcc-ab12-430e406acf97)  
+![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-2Team/assets/158265663/07a25555-cb60-4f56-815d-ff98c6e81793)  
 본 보고서에서는 다양한 머신러닝 모델을 활용하여 후보 예측을 수행한 결과를 분석하였습니다. 초기 테스트 결과 로지스틱 회귀 모델이 가장 높은 성능을 보였으나, Stratified K-Fold 교차 검증 및 Feature Importance 분석을 통해 추가적인 하이퍼파라미터 튜닝을 진행한 결과, 다른 모델에서도 성능 향상을 확인할 수 있었습니다. 앞으로의 연구에서는 더욱 정교한 파라미터 튜닝 및 모델 앙상블 기법을 도입하여 예측 성능을 향상시키는 방향으로 진행할 예정입니다.
